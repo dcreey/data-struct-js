@@ -1,0 +1,17 @@
+{
+  "name": "data-struct-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^3.1.2"
+  },
+  "dependencies": {
+    "bluebird": "^3.4.6"
+  }
+}
